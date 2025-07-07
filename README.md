@@ -33,6 +33,5 @@
     
 - **Веб-приложение для публикации рецептов**  
     Полнофункциональное приложение с API на Django REST Framework, интеграция с фронтендом на React и CI/CD через GitHub Actions.
-    
-
 ---
+![](https://nirzak-streak-stats.vercel.app/?user=aeee78&theme=transparent&hide_border=false)<br/>
